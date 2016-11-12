@@ -27,7 +27,7 @@
   "peerDependencies": {
     "electron": "^1.0.0"
   },
-  "dependencies":
+  "dependencies": {
     "request": "^2.78.0",
     "require-dir": "^0.3.1"
   }
