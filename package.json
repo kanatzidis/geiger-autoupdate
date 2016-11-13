@@ -1,6 +1,6 @@
 {
   "name": "geiger-autoupdate",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Plugin to automatically update Electron applications packaged with Geiger.",
   "main": "index.js",
   "scripts": {
